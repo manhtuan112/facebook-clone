@@ -1,15 +1,15 @@
 {
-  "main.css": "/manhtuan112/facebook-clone/static/css/main.b115ffc6.chunk.css",
-  "main.js": "/manhtuan112/facebook-clone/static/js/main.23fe4920.chunk.js",
-  "main.js.map": "/manhtuan112/facebook-clone/static/js/main.23fe4920.chunk.js.map",
-  "runtime~main.js": "/manhtuan112/facebook-clone/static/js/runtime~main.0e8dde0a.js",
-  "runtime~main.js.map": "/manhtuan112/facebook-clone/static/js/runtime~main.0e8dde0a.js.map",
-  "static/js/2.e449dada.chunk.js": "/manhtuan112/facebook-clone/static/js/2.e449dada.chunk.js",
-  "static/js/2.e449dada.chunk.js.map": "/manhtuan112/facebook-clone/static/js/2.e449dada.chunk.js.map",
-  "static/js/3.f5c9e277.chunk.js": "/manhtuan112/facebook-clone/static/js/3.f5c9e277.chunk.js",
-  "static/js/3.f5c9e277.chunk.js.map": "/manhtuan112/facebook-clone/static/js/3.f5c9e277.chunk.js.map",
-  "index.html": "/manhtuan112/facebook-clone/index.html",
-  "precache-manifest.681f315a26bbcc63d0901dc17b94ebf7.js": "/manhtuan112/facebook-clone/precache-manifest.681f315a26bbcc63d0901dc17b94ebf7.js",
-  "service-worker.js": "/manhtuan112/facebook-clone/service-worker.js",
-  "static/css/main.b115ffc6.chunk.css.map": "/manhtuan112/facebook-clone/static/css/main.b115ffc6.chunk.css.map"
+  "main.css": "/facebook-clone/static/css/main.b115ffc6.chunk.css",
+  "main.js": "/facebook-clone/static/js/main.23fe4920.chunk.js",
+  "main.js.map": "/facebook-clone/static/js/main.23fe4920.chunk.js.map",
+  "runtime~main.js": "/facebook-clone/static/js/runtime~main.3cd50976.js",
+  "runtime~main.js.map": "/facebook-clone/static/js/runtime~main.3cd50976.js.map",
+  "static/js/2.e449dada.chunk.js": "/facebook-clone/static/js/2.e449dada.chunk.js",
+  "static/js/2.e449dada.chunk.js.map": "/facebook-clone/static/js/2.e449dada.chunk.js.map",
+  "static/js/3.f5c9e277.chunk.js": "/facebook-clone/static/js/3.f5c9e277.chunk.js",
+  "static/js/3.f5c9e277.chunk.js.map": "/facebook-clone/static/js/3.f5c9e277.chunk.js.map",
+  "index.html": "/facebook-clone/index.html",
+  "precache-manifest.b1259df2c22370f35880935bb49a661c.js": "/facebook-clone/precache-manifest.b1259df2c22370f35880935bb49a661c.js",
+  "service-worker.js": "/facebook-clone/service-worker.js",
+  "static/css/main.b115ffc6.chunk.css.map": "/facebook-clone/static/css/main.b115ffc6.chunk.css.map"
 }
