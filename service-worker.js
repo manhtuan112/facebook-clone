@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/facebook-clone/precache-manifest.b1259df2c22370f35880935bb49a661c.js"
+  "/manhtuan112/facebook-clone/precache-manifest.681f315a26bbcc63d0901dc17b94ebf7.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/facebook-clone/index.html", {
+workbox.routing.registerNavigationRoute("/manhtuan112/facebook-clone/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
