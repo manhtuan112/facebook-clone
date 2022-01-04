@@ -1,0 +1,65 @@
+.messageSender{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0px 5px 7px -7px rgba(0,0,0,0.75);
+    width: 100%;
+}
+
+.messageSender__top{
+    display: flex;
+    border-bottom: 1px solid #eff2f5;
+    padding: 15px;
+    align-items: center;
+}
+
+.messageSender__top > form{
+    flex: 1;
+    display: flex;
+    height: 40px;
+}
+
+.messageSender__top > form > input{
+    flex: 1;
+    outline: none;
+    border: none;
+    padding: 5px 20px;
+    margin: 0px 10px;
+    border-radius: 33px;
+    background-color: #eff2f5;
+    height: 100%;
+    font-size: large;
+    cursor: pointer;
+}
+
+.messageSender__top > form > input:hover{
+    background-color: rgba(0,0,0,0.1);
+}
+
+
+.messageSender__bottom{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 8px;
+}
+
+.messageSender__options{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 8px;
+    color: gray;
+}
+
+.messageSender__options > h3{
+    font-size: medium;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.messageSender__options:hover{
+    background-color: #eff2f5;
+    border-radius: 10px;
+}

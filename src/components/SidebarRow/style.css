@@ -1,0 +1,43 @@
+.sidebarRow{
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.sidebarRow:hover{
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+.sidebarRow > .sidebarRow__image{
+    width: 36px;
+    height: 36px;
+    border-radius: 10px;
+}
+
+.sidebarRow > h4{
+    color: #0a0a0a;
+    margin-left: 20px;
+}
+
+.wr__siderbarRowTitle{
+    margin-left: 5px;
+}
+
+.note{
+    color: #1877f2;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.dote{
+    /* padding: 5px; */
+    /* display: block; */
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background-color: #1877f2;
+    margin-right: 5px;
+}
