@@ -20,7 +20,7 @@ function App() {
                 showDelete: false
             }
         ],
-        like: 0,
+        like: 1,
     }
 ]);
 
